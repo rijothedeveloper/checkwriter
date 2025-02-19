@@ -1,9 +1,10 @@
 import "./App.css";
+import CompanyManageDashboard from "./pages/CompanyManageDashboard/CompanyManageDashboard";
 
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">hellos</h1>
+      <CompanyManageDashboard />
     </>
   );
 }
