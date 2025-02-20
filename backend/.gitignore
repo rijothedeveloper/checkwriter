@@ -1,0 +1,62 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Spring temporary files
+/tmp/
+/logs/
+.mvn/wrapper/target
+.mvn/target
+target/
+
+# IntelliJ project files
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+
+# Gradle files
+.gradle
+/build
+
+# Maven files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.nextBackup
+pom.xml.timestampBackup
+pom.properties.versionsBackup
+_maven.repositories/
+.repository/
+/dependency-reduced-pom.xml
+/target/
+
+# NetBeans project files
+nbproject/
+
+#STS files
+.apt_generated
+.apt_internal
+.factorypath
+
+# Temporary files created by developers
+*.swp
+*.swo
+*.bak
+*.temp
+
+# Environment files
+.env
